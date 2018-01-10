@@ -25,6 +25,7 @@ Complete documentation for the this project it's not ready yet.
 If you want to test repository you must:
 * Clone the repo
 *git clone https://github.com/Nmwameso/drivingschool.git
+
 * Run by performing on the repo's folder to install all dependencies:
   * `$ composer update`
 * Database configuration is done in the .env file
