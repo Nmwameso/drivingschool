@@ -1,9 +1,11 @@
 Laravel based PHP DRIVING SCHOOL SYSTEM
 DRIVING SCHOOL SYSTEM is simple starting project to create ecommerce sites.
 
-Basic Features
-Laravel framework 5.4
-Admin lte Template
+##Basic Features
+*Laravel framework 5.4
+*Admin lte Template
+*Automatic assigning of admission numbers to students
+*Fee statement for students
 
 
 Todo:
@@ -15,16 +17,16 @@ Official Documentation
 Complete documentation for the this project it's not ready yet. If you want to test repository you must:
 
 Clone the repo
-Run by performing on the repo's folder to install all dependencies:
+*Run by performing on the repo's folder to install all dependencies:
 $ composer update
-Database
-create database with name drivingschool in .env which make a copy of the .env examp
+*Database
+create database with name drivingschool in .env which make a copy of the .env example
 create user root
 leave password blank
 Now
-$ php artisan migrate
+*$ php artisan migrate
 then run
-$ php artisan serve
+*$ php artisan serve
 And access
 http://127.0.0.1:8000
 
@@ -32,7 +34,7 @@ Contributing
 Thank you for considering contributing to this project!
 
 License
-The Ecommerce-cms is open-sourced software licensed under the MIT license
+The Driving School Cms is open-sourced software licensed under the MIT license
 
 
 
