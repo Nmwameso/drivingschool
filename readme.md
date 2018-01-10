@@ -37,9 +37,9 @@ If you want to test repository you must:
 * And access
   * `http://127.0.0.1:8000`
 
-Contributing
+## Contributing
 Thank you for considering contributing to this project!
 
-License
+## Licensing
 The Driving School Cms is open-sourced software licensed under the MIT license
 
