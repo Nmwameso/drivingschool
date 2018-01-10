@@ -1,0 +1,21 @@
+@import url(//fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700,300italic,400italic,600italic);
+@import url(//fonts.googleapis.com/css?family=Kaushan+Script);
+/*! 
+ *   AdminLTE v1.2
+ *   Author: AlmsaeedStudio.com
+ *   License: Open source - MIT
+ *           Please visit http://opensource.org/licenses/MIT for more information
+!*/
+/*
+    Core: General style
+----------------------------
+*/
+<style media="screen">
+  .noPrint{ display: block; }
+  .yesPrint{ display: block !important; }
+</style>
+
+<style media="print">
+  .noPrint{ display: none; }
+  .yesPrint{ display: block !important; }
+</style>

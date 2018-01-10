@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_ams4" value="name:studentID;datatype:int,name:Admission_no;datatype:string,name:student_name;datatype:blob,name:Id_number;datatype:int,name:start_date;datatype:date,name:coursename;datatype:blob,name:BALANCE;datatype:real" />
+</info>
