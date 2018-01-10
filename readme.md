@@ -1,34 +1,42 @@
-Laravel based PHP DRIVING SCHOOL SYSTEM
-DRIVING SCHOOL SYSTEM is simple starting project to create ecommerce sites.
+## Laravel based PHP Driving School Cms
 
-##Basic Features
-*Laravel framework 5.4
-*Admin lte Template
-*Automatic assigning of admission numbers to students
-*Fee statement for students
+Driving School Cms is simple starting project to create Driving School systems.
+
+## Basic Features
+
+- Laravel framework 5.4
+- Admin Lte Template
+- Fee payment 
+- Students Fee Statement
+- Admission letter. 
 
 
-Todo:
-Laravel based PHP DRIVING SCHOOL SYSTEM it's not complete driving school  project is starting point for simple driving school  sites.
+##  Todo:
+Laravel based PHP Ecommerce-cms it's not complete ecommerce platform,
+project is starting point for simple ecommerce sites.
 
-Need more strong and complete validation.
+- Need more strong and complete validation.
+- mpesa Api integration.
 
-Official Documentation
-Complete documentation for the this project it's not ready yet. If you want to test repository you must:
 
-Clone the repo
-*Run by performing on the repo's folder to install all dependencies:
-$ composer update
-*Database
-create database with name drivingschool in .env which make a copy of the .env example
-create user root
-leave password blank
-Now
-*$ php artisan migrate
-then run
-*$ php artisan serve
-And access
-http://127.0.0.1:8000
+## Official Documentation
+
+Complete documentation for the this project it's not ready yet.
+If you want to test repository you must:
+* Clone the repo
+*git clone https://github.com/Nmwameso/drivingschool.git
+* Run by performing on the repo's folder to install all dependencies:
+  * `$ composer update`
+* Database configuration is done in the .env file
+  * `create database with name drivingschool`
+  * `create user root`
+  * `leave password blank`
+* Now
+  * `$ php artisan migrate`
+* then run
+  * `$ php artisan serve`  
+* And access
+  * `http://127.0.0.1:8000`
 
 Contributing
 Thank you for considering contributing to this project!
