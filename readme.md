@@ -12,8 +12,8 @@ Driving School Cms is simple starting project to create Driving School systems.
 
 
 ##  Todo:
-Laravel based PHP Ecommerce-cms it's not complete ecommerce platform,
-project is starting point for simple ecommerce sites.
+Laravel based PHP Driving School Cms it's not complete Driving School Cms System,
+project is starting point for simple Driving School cms.
 
 - Need more strong and complete validation.
 - mpesa Api integration.
